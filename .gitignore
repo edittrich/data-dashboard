@@ -5,6 +5,7 @@
 /.vercel
 
 next-env.d.ts
+sa-*.json
 
 .env*
 .vercel
